@@ -1,3 +1,3 @@
 # book1.혼자공부하는파이썬
 
-## http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162241882&utm_source=naver&utm_medium=cpc&utm_campaign=naver_pc&n_media=27758&n_query=%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%ED%8C%8C%EC%9D%B4%EC%8D%AC&n_rank=1&n_ad_group=grp-a001-01-000000019341898&n_ad=nad-a001-01-000000147502940&n_keyword_id=nkw-a001-01-000003419725975&n_keyword=%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%ED%8C%8C%EC%9D%B4%EC%8D%AC&n_campaign_type=1&n_ad_group_type=1&NaPm=ct%3Dkybfv040%7Cci%3D0B80001MHHTvDrAYkvk6%7Ctr%3Dsa%7Chk%3Dd49dd4aaf7c6c214b33294e7ec2c9e8c185911d6
+## https://book.naver.com/bookdb/book_detail.naver?bid=15028688
